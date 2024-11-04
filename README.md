@@ -1,7 +1,8 @@
 # 10 Days of JavaScript - HackerRank Solutions
 
+
 Welcome to my **10 Days of JavaScript** solutions repository! This project showcases my solutions to the JavaScript challenges on [HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript). This is just a repository for my solved solutions as a way of me practicing my Javascript abilities as a beginner for Javascript. The problems were fairly simple, and education. This can be good for those who just wants to learn Javascript a step at a time.
----
+
 
 ## 🌟 About These Solutions
 
